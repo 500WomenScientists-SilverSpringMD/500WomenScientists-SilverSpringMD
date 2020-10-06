@@ -1,0 +1,32 @@
+name: "500 Women Scientists of Silver Spring, MD" 
+output_dir: "."
+navbar:
+  title: "<p><img id=\"logo\" style=\"width: 20px;\" src=\"500WS_SSMD.png\" /> 500 Women Scientists of Silver Spring, MD </p>"    
+  left:
+    - text: "About"
+      icon: fa-briefcase
+      href: about.html  
+    - text: "Members"
+      icon: fa-user 
+      href: members.html
+    - text: "Calendar"
+      icon: fa-calendar 
+      href: calendar.html
+    - text: "Projects, Activities, Actions"
+      icon: fa-check
+      href: activities.html
+    - text: "Blog"
+      icon: fa-rss
+      href: calendar.html
+    - text: "Other Resources"
+      icon: fa-plus 
+      href: otherresources.html
+  right:
+    - icon: fa-envelope-o
+      href: mailto:emily.markowitz@noaa.gov
+    - icon: fa-github
+      href: https://github.com/emilyhmarkowitz/500WomenScientistsSilverSpringMD
+output:
+  html_document:
+    theme: flatly
+    highlight: textmate
