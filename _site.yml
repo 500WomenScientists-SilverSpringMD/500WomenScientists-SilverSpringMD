@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 name: "500 Women Scientists of Silver Spring, MD" 
 output_dir: "."
 navbar:
@@ -10,15 +9,15 @@ navbar:
     - text: "Members"
       icon: fa-user 
       href: members.html
-    - text: "Calendar"
-      icon: fa-calendar 
-      href: calendar.html
     - text: "Projects, Activities, Actions"
       icon: fa-check
       href: activities.html
+    - text: "Calendar"
+      icon: fa-calendar 
+      href: calendar.html
     - text: "Blog"
       icon: fa-rss
-      href: calendar.html
+      href: https://r-in-grenoble.github.io/blog/    # CHANGE HERE 
     - text: "Other Resources"
       icon: fa-plus 
       href: otherresources.html
@@ -28,40 +27,6 @@ navbar:
     - icon: fa-github
       href: https://github.com/emilyhmarkowitz/500WomenScientistsSilverSpringMD
 output:
-  html_document:
-    theme: flatly
-    highlight: textmate
-=======
-name: "500 Women Scientists of Silver Spring, MD" 
-output_dir: "."
-navbar:
-  title: "<p><img id=\"logo\" style=\"width: 20px;\" src=\"500WS_SSMD.png\" /> 500 Women Scientists of Silver Spring, MD </p>"    
-  left:
-    - text: "About"
-      icon: fa-briefcase
-      href: about.html  
-    - text: "Members"
-      icon: fa-user 
-      href: members.html
-    - text: "Calendar"
-      icon: fa-calendar 
-      href: calendar.html
-    - text: "Projects, Activities, Actions"
-      icon: fa-check
-      href: activities.html
-    - text: "Blog"
-      icon: fa-rss
-      href: calendar.html
-    - text: "Other Resources"
-      icon: fa-plus 
-      href: otherresources.html
-  right:
-    - icon: fa-envelope-o
-      href: mailto:emily.markowitz@noaa.gov
-    - icon: fa-github
-      href: https://github.com/emilyhmarkowitz/500WomenScientistsSilverSpringMD
-output:
-  html_document:
-    theme: flatly
-    highlight: textmate
->>>>>>> 10f9fbddb4b44276d4584ff5b694703b93dd0591
+  rmarkdown::html_document:
+    theme: journal # https://rpubs.com/danapower/577147
+    highlight: zenburn
