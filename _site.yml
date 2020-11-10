@@ -17,7 +17,7 @@ navbar:
       href: calendar.html
     - text: "Blog"
       icon: fa-rss
-      href: https://r-in-grenoble.github.io/blog/    # CHANGE HERE 
+      href: blog.html    # CHANGE HERE 
     - text: "Other Resources"
       icon: fa-plus 
       href: otherresources.html
