@@ -1,0 +1,29 @@
+---
+title: "Submit Your Stories"
+output:
+  html_document:
+    includes:
+      in_header: header.html
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+## insert a pitcure of some kind, eg of someone getting their picture taken
+```
+
+## **Picture a Scientist** is both a global movement and a powerful film documenting the stories of scientists who have experienced harassment, bigotry, misogyny, racism, and bias in their career and their workplace. 
+<br>
+
+### *As a movement, Picture a Scientist has provided a platform for scientists around the world to submit their own anonymous stories and experiences related to diversity or as a minority in science.* 
+<br>
+
+#### Learn more about the film at this [Link](https://www.pictureascientist.com/).
+<br>
+
+#### To submit your own anonymous story as a scientist, fill out the following [Google Form](link).
+<br>
+
+#### Finally, check out the [Picture a Scientist Instagram](https://www.instagram.com/pas_sciencestories/)!

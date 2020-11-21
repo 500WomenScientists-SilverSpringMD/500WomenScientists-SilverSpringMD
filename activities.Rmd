@@ -1,0 +1,23 @@
+---
+title: "Recent Activities"
+output:
+  html_document:
+    includes:
+      in_header: header.html
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+
+```
+
+## *Date*, Picture a Scientist Screening
+<br> 
+
+### Type description of event here and insert photo either below or between text and caption.
+
+```{r chunk, include=FALSE}
+```

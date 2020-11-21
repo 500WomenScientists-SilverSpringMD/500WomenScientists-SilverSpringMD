@@ -1,24 +1,29 @@
 ---
-title: "Upcoming events"
+title: "Upcoming Events"
 output:
   html_document:
-    css: styles.css
+    includes:
+      in_header: header.html
+editor_options: 
+  chunk_output_type: console
 ---
 
-<!-- http://stackoverflow.com/questions/11122249/scale-iframe-css-width-100-like-an-image -->
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+# need calendar link from Jane
+
+# calendar also needs to be bigger
+```
+
+# **Access details on meetings and upcoming events by clicking on them below!**
+<br>
+
 <div class="h_iframe">
-<!-- a transparent image is preferable -->
 <img class="ratio" src="http://placehold.it/16x12"/>
-<iframe src="https://calendar.google.com/calendar/embed?src=2ttvq1sfpibbugl2cnqotm7c40%40group.calendar.google.com&ctz=Europe/Paris" style="border: 0" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=nbarbour%40csumb.edu&ctz=America%2FNew_York" style="border: 0" frameborder="0" scrolling="no"></iframe>
 </div>
 
-You can add this calendar to your own by clicking the button at the bottom-right of this calendar.
+<br>
 
-If you don't use Google Calendar, copy this link:
-
-> https://calendar.google.com/calendar/ical/2ttvq1sfpibbugl2cnqotm7c40%40group.calendar.google.com/public/basic.ics
-
-and for example, 
-
-- in Framagenda: use the "New Subscription" button and paste the previous link.
-- in Thunderbird: "File" -> "New" -> "Calendar" -> "On the Network" -> "iCalendar(ICS)" -> paste.
+## Meeting minutes and notes can be viewed [here](link).

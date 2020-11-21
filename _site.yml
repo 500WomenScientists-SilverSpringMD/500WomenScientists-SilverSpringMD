@@ -9,15 +9,15 @@ navbar:
     - text: "Members"
       icon: fa-user 
       href: members.html
-    - text: "Projects, Activities, Actions"
+    - text: "Recent Activities"
       icon: fa-check
       href: activities.html
     - text: "Calendar"
       icon: fa-calendar 
       href: calendar.html
-    - text: "Blog"
+    - text: "Submit Your Stories"
       icon: fa-rss
-      href: blog.html    # CHANGE HERE 
+      href: stories.html  
     - text: "Other Resources"
       icon: fa-plus 
       href: otherresources.html
