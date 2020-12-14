@@ -1,5 +1,7 @@
 # 500WomenScientistsSilverSpringMD
-This is the website page for 500 Women Scientists of Silver Spring, MD! Webpage here: https://500womenscientists-silverspringmd.github.io/500WomenScientistsSilverSpringMD/index.html
+This is the website page for 500 Women Scientists of Silver Spring, MD! 
+
+Webpage here: https://500womenscientists-silverspringmd.github.io/500WomenScientistsSilverSpringMD/index.html
 
 ## Webpage is maintained by
 
@@ -16,7 +18,7 @@ Seattle, WA 98195
 
 **Nicole Barbour** @barb3800
 
-PhD candidate
+PhD Candidate
 
 University of Maryland Center for Environmental Science
 
