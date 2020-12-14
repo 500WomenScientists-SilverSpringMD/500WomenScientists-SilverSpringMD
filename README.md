@@ -1,4 +1,5 @@
-# 500WomenScientistsSilverSpringMD
+# 500 Women Scientists Pod of Silver Spring MD
+
 This is the website page for 500 Women Scientists of Silver Spring, MD! 
 
 Webpage here: https://500womenscientists-silverspringmd.github.io/500WomenScientists-SilverSpringMD/
