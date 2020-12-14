@@ -1,9 +1,12 @@
-# 500WomenScientistsSilverSpringMD
-This is the website page for 500 Women Scientists of Silver Spring, MD! Webpage here: https://emilyhmarkowitz.github.io/500WomenScientistsSilverSpringMD/index.html
+# 500 Women Scientists Pod of Silver Spring MD
+
+This is the website page for 500 Women Scientists of Silver Spring, MD! 
+
+Webpage here: https://500womenscientists-silverspringmd.github.io/500WomenScientists-SilverSpringMD/
 
 ## Webpage is maintained by
 
-**Emily Markowitz** (Emily.Markowitz AT noaa.gov) @@barb3800
+**Emily Markowitz** (Emily.Markowitz AT noaa.gov) @emilyhmarkowitz
 
 Research Fisheries Biologist
 
@@ -14,9 +17,9 @@ Fisheries Service, National Oceanic and Atmospheric Administration,
 Seattle, WA 98195
 
 
-**Nicole Barbour** @@barb3800
+**Nicole Barbour** @barb3800
 
-PhD candidate
+PhD Candidate
 
 University of Maryland Center for Environmental Science
 
