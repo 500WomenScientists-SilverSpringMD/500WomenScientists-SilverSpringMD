@@ -3,24 +3,27 @@ output_dir: "."
 navbar:
   title: "<p><img id=\"logo\" style=\"width: 20px;\" src=\"500WS_SSMD.png\" /> 500 Women Scientists of Silver Spring, MD </p>"    
   left:
-    - text: "About"
-      icon: fa-briefcase
-      href: about.html  
-    - text: "Members"
-      icon: fa-user 
-      href: members.html
-    - text: "Recent Activities"
-      icon: fa-check
-      href: activities.html
-    - text: "Calendar"
-      icon: fa-calendar 
-      href: calendar.html
-    - text: "Submit Your Stories"
-      icon: fa-rss
-      href: stories.html  
-    - text: "Other Resources"
-      icon: fa-plus 
-      href: otherresources.html
+    - text: "Explore"
+      icon: fa-gear
+      menu:
+        - text: "About"
+          icon: fa-briefcase
+          href: about.html  
+        - text: "Members"
+          icon: fa-user 
+          href: members.html
+        - text: "Recent Activities"
+          icon: fa-check
+          href: activities.html
+        - text: "Calendar"
+          icon: fa-calendar 
+          href: calendar.html
+        - text: "Submit Your Stories"
+          icon: fa-rss
+          href: stories.html  
+        - text: "Other Resources"
+          icon: fa-plus 
+          href: otherresources.html
   right:
     - icon: fa-envelope-o
       href: mailto:emily.markowitz@noaa.gov
