@@ -7,6 +7,7 @@ library("googledrive")
 # https://docs.google.com/spreadsheets/d/1NkG331BZW_Q9PuzdhEgW5rB6vkLe0K_Dd1K3iFrAFNw/edit?usp=sharing
 drive_deauth()
 drive_auth()
+1
 drive_download("Welcome/About", type = ".txt", overwrite = TRUE, path = "./Welcome_About")
 drive_download("Member Profiles", type = "csv", overwrite = TRUE, path = "./Member_Profiles")
 drive_download("R Workshop Video Links", type = "csv", overwrite = TRUE, path = "./R Workshop Video Links")

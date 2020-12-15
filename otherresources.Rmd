@@ -22,5 +22,10 @@ knitr::opts_chunk$set(echo =TRUE)
 
 <div class="h_iframe">
 <img class="ratio" src="http://placehold.it/16x12"/>
-<iframe src="https://calendar.google.com/calendar/embed?src=500ws.silverspring%40gmail.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+# <iframe src="https://docs.google.com/spreadsheets/d/1VQmUCT428S7CF46YtVQ9vHxK6tItmw9OFmCNyZ9BiRc/edit?usp=sharing" style="border: 0" frameborder="0" width="800" height="600" scrolling="no"></iframe>
 </div>
+
+### Fill out this form to add to this list!
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdcazXdVNRQjkwROOPvCitUI1WQVjkd6r35_svBgVhxttXNNw/viewform?embedded=true" width="640" height="938" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
